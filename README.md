@@ -1,5 +1,5 @@
-# HackThis-2020-Data
-Probability of people passing or failing online 
+# HackThis-2020-Data project 
+## Probability of people passing or failing online 
 Most governments around the world have temporarily closed educational institutions to contain the spread of the COVID-19 pandemic.
 Globally most schools are going online right now, but this has fastened up the system to go online. 
 Online college courses are a rapidly expanding feature of higher education. 
